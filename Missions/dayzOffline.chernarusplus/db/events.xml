@@ -179,7 +179,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>child</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="0" lootmin="0" max="6" min="2" type="Animal_CanisLupus_Grey"/>
             <child lootmax="0" lootmin="0" max="4" min="0" type="Animal_CanisLupus_White"/>
@@ -596,7 +596,7 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>3</nominal>
+        <nominal>6</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2500</lifetime>
