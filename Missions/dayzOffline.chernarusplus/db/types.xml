@@ -6593,6 +6593,10 @@
         <category name="tools"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="Hammer">
         <nominal>87</nominal>
@@ -6620,10 +6624,10 @@
         <category name="tools"/>
     </type>
     <type name="HandSaw">
-        <nominal>150</nominal>
+        <nominal>200</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>110</min>
+        <min>150</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6631,6 +6635,10 @@
         <category name="tools"/>
         <usage name="Industrial"/>
         <usage name="Farm"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="HandcuffKeys">
         <nominal>10</nominal>
@@ -7467,10 +7475,10 @@
         <category name="vehiclesparts"/>
     </type>
     <type name="Hatchet">
-        <nominal>150</nominal>
+        <nominal>200</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>110</min>
+        <min>150</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -7479,6 +7487,10 @@
         <tag name="floor"/>
         <usage name="Farm"/>
         <usage name="Village"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
     </type>
     <type name="HeadlightH7">
         <nominal>0</nominal>
