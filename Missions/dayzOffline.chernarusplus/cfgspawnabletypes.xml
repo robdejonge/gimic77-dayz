@@ -1782,7 +1782,7 @@
 		</attachments>
 	</type>
 	<type name="Glock19">
-		<attachments chance="0.05">
+		<attachments chance="1.00">
 			<item name="PistolSuppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="0.05">
@@ -2067,9 +2067,6 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_FAL_20Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="M4_Suppressor" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="SVD">
