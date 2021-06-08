@@ -11620,6 +11620,7 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Coast"/>
+        <usage name="Town"/>
     </type>
     <type name="Pickaxe">
         <nominal>70</nominal>
