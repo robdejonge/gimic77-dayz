@@ -2127,6 +2127,18 @@
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="Scout">
+		<attachments chance="1.00">
+			<item name="M68Optic" chance="0.30" />
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_Scout_5Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="Deagle_Gold">
 		<attachments chance="1.00">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
