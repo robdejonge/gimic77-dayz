@@ -1826,13 +1826,13 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_MP5_30Rnd" chance="1.00" />
+			<item name="ACOGOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
 			<item name="BUISOptic" chance="0.30" />
 			<item name="M68Optic" chance="0.20" />
 			<item name="M4_T3NRDSOptic" chance="0.20" />
 			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.10" />
 		</attachments>
 		<attachments chance="0.10">
 			<item name="MP5_Compensator" chance="1.00" />
@@ -1844,6 +1844,7 @@
 	<type name="UMP45">
 		<attachments chance="1.00">
 			<item name="Mag_UMP_25Rnd" chance="1.00" />
+			<item name="ACOGOptic" chance="1.00" />
 		</attachments>
 		<!-- Mag_UMP_25Rnd -->
 		<attachments chance="0.30">
@@ -1851,7 +1852,6 @@
 			<item name="M68Optic" chance="0.15" />
 			<item name="M4_T3NRDSOptic" chance="0.20" />
 			<item name="ReflexOptic" chance="0.20" />
-			<item name="ACOGOptic" chance="0.30" />
 		</attachments>
 		<attachments chance="0.05">
 			<item name="PistolSuppressor" chance="1.00" />
