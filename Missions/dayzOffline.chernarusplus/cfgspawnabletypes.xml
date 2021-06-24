@@ -1836,7 +1836,7 @@
 			<item name="Mag_MP5_15Rnd" chance="0.5" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Mag_MP5_30Rnd" chance="1.0" />
+			<item name="Mag_MP5_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.20">
 			<item name="BUISOptic" chance="0.30" />
