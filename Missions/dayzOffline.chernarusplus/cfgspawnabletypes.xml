@@ -2123,6 +2123,7 @@
 		<attachments chance="0.10">
 			<item name="Mag_Saiga_5Rnd" chance="0.60" />
 			<item name="Mag_Saiga_Drum20Rnd" chance="0.20" />
+		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_Saiga_8Rnd" chance="1.00" />
 		</attachments>
