@@ -502,8 +502,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Coast"/>
     </type>
     <type name="AmmoBox_308WinTracer_20Rnd">
         <nominal>7</nominal>
@@ -7880,7 +7879,6 @@
         <tag name="floor"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <usage name="Coast"/>
     </type>
     <type name="HikingBoots_Brown">
         <nominal>30</nominal>
@@ -7895,7 +7893,6 @@
         <tag name="floor"/>
         <usage name="Town"/>
         <usage name="Village"/>
-        <usage name="Coast"/>
     </type>
     <type name="HikingJacket_Black">
         <nominal>20</nominal>
@@ -9677,8 +9674,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <tag name="shelves"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Coast"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
@@ -10039,8 +10035,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
+        <usage name="Coast"/>
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
@@ -10707,7 +10702,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Military"/>
+        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Black">
         <nominal>5</nominal>
@@ -10720,7 +10715,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Military"/>
+        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Bluerock">
         <nominal>5</nominal>
@@ -10733,7 +10728,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Town"/>
+        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Brown">
         <nominal>5</nominal>
@@ -10746,7 +10741,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Military"/>
+        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Redpunk">
         <nominal>4</nominal>
@@ -10759,7 +10754,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Town"/>
+        <usage name="Coast"/>
     </type>
     <type name="MiniDress_BlueChecker">
         <nominal>30</nominal>
