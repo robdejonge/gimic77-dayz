@@ -4365,6 +4365,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Military"/>
+        <usage name="Coast"/>
     </type>
     <type name="CombatBoots_Black">
         <nominal>5</nominal>
@@ -4378,6 +4379,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Military"/>
+        <usage name="Coast"/>
     </type>
     <type name="CombatBoots_Brown">
         <nominal>5</nominal>
@@ -4391,6 +4393,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Military"/>
+        <usage name="Coast"/>
     </type>
     <type name="CombatBoots_Green">
         <nominal>5</nominal>
@@ -4404,6 +4407,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Military"/>
+        <usage name="Coast"/>
     </type>
     <type name="CombatBoots_Grey">
         <nominal>5</nominal>
@@ -4417,6 +4421,7 @@
         <category name="clothes"/>
         <tag name="floor"/>
         <usage name="Military"/>
+        <usage name="Coast"/>
     </type>
     <type name="CombatKnife">
         <nominal>40</nominal>
@@ -10698,7 +10703,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Black">
         <nominal>5</nominal>
@@ -10711,7 +10715,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Bluerock">
         <nominal>5</nominal>
@@ -10724,7 +10727,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Brown">
         <nominal>5</nominal>
@@ -10737,7 +10739,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Coast"/>
     </type>
     <type name="MilitaryBoots_Redpunk">
         <nominal>4</nominal>
@@ -10750,7 +10751,6 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
         <tag name="floor"/>
-        <usage name="Coast"/>
     </type>
     <type name="MiniDress_BlueChecker">
         <nominal>30</nominal>
