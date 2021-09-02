@@ -2102,7 +2102,7 @@
 	</type>
 	<type name="SVD">
 		<subcounter min="30" max="60" />
-		<attachments chance="0.10">
+		<attachments chance="1.00">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="0.50">
@@ -2167,9 +2167,9 @@
 		<attachments chance="0.25">
 			<item name="M4_T3NRDSOptic" chance="0.25" />
 			<item name="M68Optic" chance="0.25" />
-			<item name="ACOGOptic" chance="0.25" />
+			<item name="ACOGOptic" chance="1.00" />
 			<item name="ACOGOptic_6x" chance="0.25" />
-			<item name="M4_Suppressor" chance="0.25" />
+			<item name="M4_Suppressor" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="Scout_Chernarus">
