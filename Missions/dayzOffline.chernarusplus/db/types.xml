@@ -2398,10 +2398,10 @@
         <usage name="Village"/>
     </type>
     <type name="Battery9V">
-        <nominal>100</nominal>
+        <nominal>200</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>80</min>
+        <min>160</min>
         <quantmin>50</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -2409,6 +2409,7 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Industrial"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
     <type name="BatteryCharger">
@@ -3419,10 +3420,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Canteen">
-        <nominal>20</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>15</min>
         <quantmin>10</quantmin>
         <quantmax>90</quantmax>
         <cost>100</cost>
@@ -8644,10 +8645,10 @@
         <category name="weapons"/>
     </type>
     <type name="IodineTincture">
-        <nominal>40</nominal>
+        <nominal>80</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>60</min>
         <quantmin>10</quantmin>
         <quantmax>50</quantmax>
         <cost>100</cost>
@@ -9460,10 +9461,10 @@
         <category name="containers"/>
     </type>
     <type name="LeatherSewingKit">
-        <nominal>80</nominal>
+        <nominal>120</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>90</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9471,6 +9472,7 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Industrial"/>
+        <usage name="Town"/>
         <usage name="Village"/>
     </type>
     <type name="LeatherShirt_Natural">
@@ -14218,10 +14220,10 @@
         <category name="vehiclesparts"/>
     </type>
     <type name="SewingKit">
-        <nominal>80</nominal>
+        <nominal>120</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>60</min>
+        <min>90</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15475,10 +15477,10 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalBaconCan">
-        <nominal>10</nominal>
+        <nominal>30</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>5</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16577,10 +16579,10 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="VitaminBottle">
-        <nominal>40</nominal>
+        <nominal>100</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>50</min>
         <quantmin>5</quantmin>
         <quantmax>20</quantmax>
         <cost>100</cost>
@@ -16588,6 +16590,7 @@
         <category name="tools"/>
         <tag name="shelves"/>
         <usage name="Town"/>
+        <usage name="Medic"/>
         <usage name="Village"/>
     </type>
     <type name="Watchtower">
@@ -16658,10 +16661,10 @@
         <usage name="Coast"/>
     </type>
     <type name="WeaponCleaningKit">
-        <nominal>50</nominal>
+        <nominal>100</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>30</min>
+        <min>50</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16669,7 +16672,6 @@
         <category name="tools"/>
         <usage name="Military"/>
         <usage name="Police"/>
-        <usage name="Hunting"/>
     </type>
     <type name="WeldingMask">
         <nominal>20</nominal>
