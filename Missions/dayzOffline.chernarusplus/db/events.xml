@@ -728,8 +728,8 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>20</nominal>
-        <min>15</min>
+        <nominal>15</nominal>
+        <min>10</min>
         <max>0</max>
         <lifetime>2100</lifetime>
         <restock>0</restock>
